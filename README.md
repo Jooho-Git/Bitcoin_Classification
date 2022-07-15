@@ -1,4 +1,4 @@
-# Bigscoin Classification - Timeseries Pattern Recognition
+# Bigscoin Classification - Chart Pattern Recognition
 > ## Explainable Bitcoin Pattern Alert and Forecasting Service
 ## File Directory  
 
