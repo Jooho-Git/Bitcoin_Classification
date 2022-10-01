@@ -6,8 +6,8 @@
   <img src="https://user-images.githubusercontent.com/68328871/179261887-935ff2c9-2dd7-4ec6-959a-9358caa1585d.png" />
 </p>
 
-- candle stick chart image를 input으로 받아 5가지 패턴에 대해 분류합니다.
-- Grad Cam을 통해 분류 결과에 대한 설명성을 제공합니다. (Using Target layer: red)
+- The model reads Bitcoin chart patterns and classifies them into 5 patterns.
+- In the output, we provide explanation for classification results using Grad-Cam. (Using Target layer: red)
 
 ### Learning Curve
 ![image](https://user-images.githubusercontent.com/68328871/179258071-624f81c9-0a4c-4567-bffe-dce5d6848e92.png)
