@@ -15,12 +15,12 @@
 
 
 ## Example
-- pred: rising / label: rising
+- Prediction : **Rising** / Label : **Rising**  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68328871/179255907-67031e30-7459-47be-b6a7-3e183979f906.png" />
 </p>
 
-- pred: ascending / label: rising
+- Prediction : _**Ascending**_ / Label : _**Rising**_  
 <p align="center">
   <img src="https://user-images.githubusercontent.com/68328871/179256288-9d84f562-bd95-4a98-ab6a-d5097f1ebce0.png" />
 </p>
